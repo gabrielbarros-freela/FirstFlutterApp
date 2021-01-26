@@ -66,7 +66,7 @@ class Identification extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'Flutter, JavaScript: node.js, react, react-native',
+              'JavaScript: node.js, react, react-native, Flutter',
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 22.0,
